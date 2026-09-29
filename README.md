@@ -80,28 +80,10 @@
 | 🍽️ **[AutomatiZA](https://github.com/JoshuaDun04/automatiza-pedidos-whatsapp)** | Ordering system for restaurants: a WhatsApp chatbot takes orders and notifies customers, while a real-time dashboard and kitchen display run the operation | Node.js, React, SQLite, SSE |
 | 🌐 **Automation Portfolio** | Website showcasing automation and inventory management projects | React, Tailwind |
 
-<p align="center">
-  <a href="https://github.com/JoshuaDun04/SegurancaEmTransportePrivado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDun04&repo=SegurancaEmTransportePrivado&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/JoshuaDun04/automatiza-pedidos-whatsapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDun04&repo=automatiza-pedidos-whatsapp&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoshuaDun04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaDun04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JoshuaDun04&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshuaDun04&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
