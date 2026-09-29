@@ -1,5 +1,3 @@
-<!-- Replace SEU_USUARIO with your GitHub username throughout this file -->
-
 <h1 align="center">Hi, I'm Geudes 👋</h1>
 <h3 align="center">AI & Full Stack Developer · Computer Engineering · Manaus, Brazil</h3>
 
@@ -8,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/geudes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:juniorgeudes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JoshuaDun04&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -78,29 +76,32 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚗 **Ride Safety App** | Camera-based danger detection for ride-hailing trips | Computer vision, React Native |
+| 🚗 **[Ride Safety App](https://github.com/JoshuaDun04/SegurancaEmTransportePrivado)** | Detects knife threats and strangulation inside ride-hailing cars: the phone camera streams to a server running YOLOv8 + YOLOv8-Pose. Fine-tuned on our own dataset, raising knife detection from 0% to 78% per frame; every threat sequence in our tests was flagged, with no false alarms. Written up as a research paper. | Python, PyTorch, YOLOv8, React Native, WebSocket |
+| 🍽️ **[AutomatiZA](https://github.com/JoshuaDun04/automatiza-pedidos-whatsapp)** | Ordering system for restaurants: a WhatsApp chatbot takes orders and notifies customers, while a real-time dashboard and kitchen display run the operation | Node.js, React, SQLite, SSE |
 | 🌐 **Automation Portfolio** | Website showcasing automation and inventory management projects | React, Tailwind |
 
-<!-- Replace with real repository links, or use pinned cards: -->
-<!--
-<a href="https://github.com/SEU_USUARIO/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_NAME&theme=tokyonight" />
-</a>
--->
+<p align="center">
+  <a href="https://github.com/JoshuaDun04/SegurancaEmTransportePrivado">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDun04&repo=SegurancaEmTransportePrivado&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/JoshuaDun04/automatiza-pedidos-whatsapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDun04&repo=automatiza-pedidos-whatsapp&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoshuaDun04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaDun04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=JoshuaDun04&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshuaDun04&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
