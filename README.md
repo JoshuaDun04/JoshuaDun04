@@ -17,7 +17,7 @@
 
 - 🎓 **Computer Engineering** student at Faculdade Matias Machline (graduating 2027)
 - 🤖 **AI Developer** at Instituto de Pesquisas Eldorado. Previously a full stack developer at SIDIA
-- 🔧 **Mechatronics** technician — PLCs, industrial automation, prototyping
+- 🔧 **Mechatronics** technician: PLCs, industrial automation, prototyping
 - 👁️ Especially interested in **computer vision for robotics**
 - 🌎 Languages: Portuguese (native), English (Advanced)
 
