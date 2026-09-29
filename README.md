@@ -16,7 +16,7 @@
 ## 🚀 About me
 
 - 🎓 **Computer Engineering** student at Faculdade Matias Machline (graduating 2027)
-- 🤖 **AI Developer** at Instituto de Pesquisas Eldorado: AI agents, generative AI, RAG and machine learning
+- 🤖 **AI Developer** at Instituto de Pesquisas Eldorado. Previously a full stack developer at SIDIA
 - 🔧 **Mechatronics** technician — PLCs, industrial automation, prototyping
 - 👁️ Especially interested in **computer vision for robotics**
 - 🌎 Languages: Portuguese (native), English (Advanced)
@@ -78,7 +78,6 @@
 |---|---|---|
 | 🚗 **[Ride Safety App](https://github.com/JoshuaDun04/SegurancaEmTransportePrivado)** | Detects knife threats and strangulation inside ride-hailing cars: the phone camera streams to a server running YOLOv8 + YOLOv8-Pose. Fine-tuned on our own dataset, raising knife detection from 0% to 78% per frame; every threat sequence in our tests was flagged, with no false alarms. Written up as a research paper. | Python, PyTorch, YOLOv8, React Native, WebSocket |
 | 🍽️ **[AutomatiZA](https://github.com/JoshuaDun04/automatiza-pedidos-whatsapp)** | Ordering system for restaurants: a WhatsApp chatbot takes orders and notifies customers, while a real-time dashboard and kitchen display run the operation | Node.js, React, SQLite, SSE |
-| 🌐 **Automation Portfolio** | Website showcasing automation and inventory management projects | React, Tailwind |
 
 ## 📊 GitHub stats
 
